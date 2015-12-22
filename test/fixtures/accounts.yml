@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  descrition: MyString
+  amount: 1
+  client: MyString
+  account_type: MyString
+  date: 2015-12-21
+  balance: 1
+
+two:
+  descrition: MyString
+  amount: 1
+  client: MyString
+  account_type: MyString
+  date: 2015-12-21
+  balance: 1
